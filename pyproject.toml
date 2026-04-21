@@ -12,5 +12,6 @@ dependencies = [
     "langchain-openai>=1.1.15",
     "langchain-pinecone>=0.2.13",
     "langchainhub>=0.1.21",
+    "pip-system-certs>=5.3",
     "python-dotenv>=1.2.2",
 ]
