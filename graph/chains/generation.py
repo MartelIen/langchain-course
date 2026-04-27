@@ -1,6 +1,6 @@
-from langsmith import Client
 from langchain_core.output_parsers import StrOutputParser
 from langchain_openai import ChatOpenAI
+from langsmith import Client
 
 llm = ChatOpenAI(temperature=0)
 
